@@ -12,7 +12,7 @@
 <p align="center">
   <img src="assets/pipeline.png" width="100%" alt="ours pipeline">
   <br>
-  <em>图1：ours pipeline </em>
+  <em>图1：our pipeline </em>
 </p>
 
 ## 2.主要改进

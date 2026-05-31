@@ -1,0 +1,32 @@
+# Core VGGT/VGGT-X dependencies
+torch==2.3.1
+torchvision==0.18.1
+numpy==1.26.1
+Pillow
+huggingface_hub
+einops
+safetensors
+opencv-python
+open3d
+evo
+roma
+kornia
+trimesh
+matplotlib
+pycolmap==3.10.0
+pyliblzfse
+
+# BA and demo dependencies
+gradio==5.17.1
+viser==0.2.23
+tqdm
+hydra-core
+omegaconf
+scipy
+onnxruntime
+requests
+pydantic==2.10.6
+pyceres==2.3
+
+# Additional tracking dependency (LightGlue)
+git+https://github.com/jytime/LightGlue.git#egg=lightglue

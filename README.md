@@ -1,6 +1,6 @@
 # VGGT-X + BA with Large-Scale Support
 
-本项目在 [VGGT‑X](https://github.com/Linketic/VGGT-X) 和 [VGGT](https://github.com/facebookresearch/vggt) 的基础上，实现了**支持更大数据量输入的联合推理与 BA 优化**。  
+本项目在 [VGGT‑X](https://github.com/Linketic/VGGT-X) 和 [VGGT](https://github.com/facebookresearch/vggt) 的基础上，实现了**支持较大数据量输入的模型推理与 BA 优化**。  
 主要改进包括：
 
 - 🚀 **模型推理轻量化**：采用 VGGT‑X 的内存高效设计，降低显存占用，可处理更多帧（例如 400+ 帧）。这一部分我们完全复用 VGGT-X 的代码做推理。

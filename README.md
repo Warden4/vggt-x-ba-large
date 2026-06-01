@@ -50,6 +50,7 @@ BA 优化离不开轨迹信息，而 VGGSfM 预测的海量轨迹必定需要经
 
 ### 4.1 克隆仓库
 ```bash
+# 由于项目中存在一个三百帧视图的示例数据集，这个过程可能会偏慢
 git clone https://github.com/Warden4/vggt-x-ba-large.git
 cd vggt-x-ba-large
 ```
